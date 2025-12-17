@@ -28,4 +28,4 @@
 | **NR-33** | Segurança e Saúde no Trabalho em Espaços Confinados |
 | **NR-34** | Condições e Meio Ambiente de Trabalho na Indústria da Construção, Reparação e Desmonte Naval |
 
-*Fonte: Autoria própria com base em BRASIL (2025).*
+*Fonte: Autoria própria com base em [BRASIL (2025)](https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/ctpp-nrs/normas-regulamentadoras-nrs).*
